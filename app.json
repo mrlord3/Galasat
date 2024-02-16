@@ -8,7 +8,7 @@
 		"python",
 		"telethon"
 	],
-	"repository": "https://github.com/ELPOP2410/tgm",
+	"repository": "https://github.com/mrlord3/Galasat",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
