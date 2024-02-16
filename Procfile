@@ -1,1 +1,1 @@
-worker: python3 FLASH.py
+worker: python3 LORD.py
